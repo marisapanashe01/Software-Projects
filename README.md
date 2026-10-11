@@ -20,8 +20,8 @@ Each project has its own repository containing its source code, documentation, i
 
 > **Project repositories:** Replace the placeholders below with links to the actual repositories as you add them.
 
-- 🧭 [Pathwise — Source Code](/add link to pathwise)
-- 🌍 [Tourism Recommender — Source Code](?add link to tourism recommender app)
+- 🧭 [Pathwise — Source Code](coming soon)
+- 🌍 [Tourism Recommender — Source Code](https://github.com/marisapanashe01/Tourism-Recommender-Application)
 - 🚀 [Explore All Repositories](https://github.com/marisapanashe01?tab=repositories)
 
 ---
