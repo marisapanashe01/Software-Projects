@@ -17,10 +17,16 @@
   &nbsp;•&nbsp;
   <a href="#-getting-started">Get Started</a>
   &nbsp;•&nbsp;
-  <a href="#-deployment">Deploy with Vercel</a>
+ 
 </p>
 
 ---
+## 🖥️ Preview
+
+<p align="center">
+  <img src="assets/images/snakegame11.png" alt="Word Scramble game preview" width="800">
+</p>
+
 
 ## 🕹️ About the Project
 
