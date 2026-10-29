@@ -24,7 +24,7 @@
 ## 🖥️ Preview
 
 <p align="center">
-  <img src="assets/images/snakegame11.png" alt="Word Scramble game preview" width="800">
+  <img src="assets/images/snakegame1.png" alt="Word Scramble game preview" width="800">
 </p>
 
 
